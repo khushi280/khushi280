@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react,aws**
 
-- 📫 How to reach me **khushithacker2003@gmail.com**
+- 📫 How to reach me **thackerkhushi852@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iDLQLhOHF7pRJSZUDzNVdSM68O0_RlUc/view?usp=drive_link](https://drive.google.com/file/d/1iDLQLhOHF7pRJSZUDzNVdSM68O0_RlUc/view?usp=drive_link)
 
